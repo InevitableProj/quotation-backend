@@ -1,0 +1,4 @@
+git status
+git add "test.text"
+git commit -m "Test commit""
+git push/pull upstream shankar
