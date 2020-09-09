@@ -1,3 +1,5 @@
+This are git command
+
 git status
 git add "test.text"
 git commit -m "Test commit""
