@@ -1,0 +1,16 @@
+http://localhost:3000/api/v1/company/allCompanies   -  Get All Company
+
+
+http://localhost:3000/api/v1/company/addCompany    - Post Insert Company
+
+Sample Json Request Format
+
+{
+  "company_name": "Test",
+  "phone_number": "982922823",
+  "company_emailid": "abc@test.com",
+  "proprietor": "Tester",
+  "company_logo": null,
+  "bank_account_number": "6257128",
+  "bank_ifsc_code": "TS3451"
+}
